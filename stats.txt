@@ -1,0 +1,39 @@
+Expected
+	Expected goals
+Possession
+	Ball possession
+Shots
+	Total shots
+	Shots on target
+	Shots off target
+	Blocked shots
+TVData
+	Corner kicks
+	Offsides
+	Fouls
+	Yellow cards
+	Red cards
+Shots extra
+	Big chances
+	Big chances missed
+	Shots inside box
+	Shots outside box
+	Goalkeeper saves
+	Hit woodwork
+	Counter attacks
+	Counter attack shots
+	Counter attack goals
+Passes
+	Passes
+	Accurate passes
+	Long balls
+	Crosses
+Duels
+	Dribbles
+	Possession lost
+	Duels won
+	Aerials won
+Defending
+	Tackles
+	Interceptions
+	Clearances
